@@ -1,0 +1,2 @@
+# Unexpected Pointer Behavior in C
+This repository demonstrates a common error in C programming related to pointer arithmetic and memory management. The code snippet showcases a scenario where improper handling of pointers can lead to unexpected behavior. The solution provides an improved version with enhanced error handling and pointer validation.
